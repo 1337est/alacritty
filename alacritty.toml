@@ -5,7 +5,7 @@ args = ["-1"]
 [window]
 padding = { x = 0, y = 0 }
 decorations = "Full"
-opacity = 0.98
+opacity = 0.95
 blur = false
 class = { instance = "Alacritty", general = "Alacritty" }
 
@@ -18,7 +18,7 @@ normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
 italic = { family = "JetBrainsMono Nerd Font", style = "Medium Italic" }
 bold_italic = { family = "JetBrainsMono Nerd Font", style = "Bold Italic" }
-size = 13
+size = 12
 
 [colors]
 draw_bold_text_with_bright_colors = true
